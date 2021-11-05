@@ -1,0 +1,32 @@
+Enunciado 25.10 
+Dado una lista de elementos del 1 al 400, sumar una unidad a los impares 
+y dos unidades a los pares. 
+Utilizamos por lo menos una vez una función lambda. 
+Utilizamos también las funciones map/filter cuando sea necesario. 
+La lista resultante la invertimos y obtenemos el primer elemento tras la 
+inversión
+
+Enunciados sql (facilitos)
+
+-- de propductos, seleccionar el produto mas caro
+-- de propductos, seleccionar el produto mas barato
+-- la media de precios de los productos de mas de 10 euros
+
+Enunciado SQL 
+ 
+Hemos tenido un problema con un transportista con identificador 3 y queremos obtener el 
+nombre completo del empleado que cursó dichos envíos con este transportista además de la 
+fecha de estos pedidos.
+
+Enunciado práctica SQL 
+ 
+Dadas las tablas que se presentan en el esquema y dados los scripts de 
+creación e inserción de datos, se pide: 
+ 
+1)  Crear la base de datos 
+2)  Insertar datos 
+3)  Crear proyecto Python que explore los datos: 
+a.  Que haya una sentencia SIN cláusula  where 
+b.  Que haya una sentencia CON cláusula  where 
+c.  Que haya una sentencia que implique algún tipo de JOIN de 
+los explicados 
